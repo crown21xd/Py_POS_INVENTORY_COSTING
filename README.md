@@ -12,5 +12,5 @@ Is a simple Python program without Ui mainly use for systematic food business ma
 
 P O S
 - 
-
+-
 
