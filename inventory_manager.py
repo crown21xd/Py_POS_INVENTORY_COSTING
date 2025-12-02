@@ -92,7 +92,7 @@ class InventoryManager:
                 print(f"✅ New ingredient added to inventory.")
 
         if changes_made:
-            database.save_dataframe(df_inventory, database.SHEET_INVENTORY, mode='overwrite')
+            database.save_dataframe(df_inventory, database.SHEET_INVENTORY, mode='overwrite') # This will now replace the inventory file
             print("\nInventory restock complete and saved to the database.")
         else:
             print("\nNo changes made. Inventory not updated.")
