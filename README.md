@@ -3,9 +3,14 @@ Is a simple Python program without Ui mainly use for systematic food business ma
 
 # INVENTORY MANAGER
 - Creates a simple xlxs that stores Ingredients
-
-# P O S
--
+- Add Ingredients and Price
+- Auto compute cost per unit
 
 # COSTING MANAGER
--
+- FInds available ingredients in Inventory
+- 
+
+P O S
+- 
+
+
